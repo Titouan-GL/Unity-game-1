@@ -78,7 +78,6 @@ public class PlayerAnimation : MonoBehaviour
 		}
         else{
 			string str = "Idle"+facing;
-			Debug.Log("Idle"+facing);
 			if (!anim.GetNextAnimatorStateInfo(0).IsName(str) && !anim.GetCurrentAnimatorStateInfo(0).IsName(str))
 				anim.CrossFadeInFixedTime(str, 0.1f);
 		}
