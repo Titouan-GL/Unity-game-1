@@ -7,3 +7,6 @@ It's still in developpement so you have to build it with Unity in order to use t
 ## Commands
 - Directionnal arrows : move
 - Space : jump
+
+
+video link here : https://www.youtube.com/watch?v=d25yuc-B0ZM
